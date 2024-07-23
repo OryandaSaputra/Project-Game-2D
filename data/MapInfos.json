@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Camp Prajurit","order":3,"parentId":0,"scrollX":1965.6,"scrollY":1075.2},
+{"id":2,"expanded":true,"name":"Hutan","order":4,"parentId":0,"scrollX":1390.2857142857142,"scrollY":822.8571428571428},
+{"id":3,"expanded":false,"name":"CutScene-Camp","order":6,"parentId":0,"scrollX":982.8,"scrollY":537.6},
+{"id":4,"expanded":false,"name":"CutScene-Perjalanan","order":7,"parentId":0,"scrollX":982.8,"scrollY":537.6},
+{"id":5,"expanded":false,"name":"Closing...","order":8,"parentId":0,"scrollX":655.2,"scrollY":358.4},
+{"id":6,"expanded":false,"name":"Dalam Hutan","order":5,"parentId":2,"scrollX":2808,"scrollY":1536},
+{"id":7,"expanded":false,"name":"Opening","order":1,"parentId":0,"scrollX":720.8888888888889,"scrollY":417.77777777777777},
+null,
+null,
+null,
+null,
+{"id":12,"expanded":true,"name":"Konstantinopel","order":2,"parentId":0,"scrollX":1404,"scrollY":768}
+]

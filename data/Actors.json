@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_2","characterIndex":2,"characterName":"Evil","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Komandan Halil","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Sultan Mehmed 2","characterIndex":0,"characterName":"Konstantinopel","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Konstantinopel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sultan Mehmed II","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_4","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[3,0,2,3,4],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Prajurit Fatimah","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_7","characterIndex":6,"characterName":"People3","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Prajurit Ali","nickname":"","note":"","profile":""}
+]
